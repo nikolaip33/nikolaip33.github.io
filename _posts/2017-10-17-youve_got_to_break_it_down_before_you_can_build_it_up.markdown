@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "You've got to break it down, before you can build it up"
-date:       2017-10-17 19:23:35 +0000
+date:       2017-10-17 15:23:35 -0400
 permalink:  youve_got_to_break_it_down_before_you_can_build_it_up
 ---
 
