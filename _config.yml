@@ -1,0 +1,21 @@
+# Site settings
+title: ::Groudon::
+header-img: img/home-bg.png
+email: nikolaip@gmail.com
+copyright_name: nikolaip33
+description: > # this means to ignore newlines until "baseurl:"
+  Max REPL
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  nikolaip33
+learn_profile: nikolaip33
+email_username: nikolaip@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
